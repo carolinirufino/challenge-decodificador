@@ -1,63 +1,59 @@
-# Challenge ONE | Lógica de Programação | Decodificador de texto
 
-<p align="center" >
-     <img width="300" heigth="200" src="https://user-images.githubusercontent.com/91544872/157673876-2c51fc09-5bed-48c0-aad3-97fc7fa64d1d.png">
-</p>
+<body>
+  <h1>Decodificador de Texto 🔐</h1>
+  <p>
+    Este é um aplicativo web interativo que permite codificar e decodificar mensagens de texto. É ideal para quem deseja 
+    enviar mensagens de forma criativa ou entender mensagens codificadas.
+  </p>
 
-### Seja bem vindo ao repositório do Decodificador de texto! Passos fundamentais:
+  <h2>🛠 Tecnologias Utilizadas</h2>
+  <ul>
+    <li><strong>HTML5</strong></li>
+    <li><strong>CSS3</strong></li>
+    <li><strong>JavaScript</strong></li>
+    <li><strong>Vercel</strong> (para hospedagem)</li>
+  </ul>
 
-#### Marque esse projeto com uma estrela ⭐
-#### Siga as instruções das aulas e conteúdos 📚
-#### Visite a página do Challenge [Clicando aqui!](https://www.alura.com.br/challenges/challenge-one-logica) 📃
----
+  <h2>🚀 Funcionalidades</h2>
+  <ul>
+    <li>Codificar mensagens: transforma textos comuns em mensagens codificadas.</li>
+    <li>Decodificar mensagens: interpreta textos codificados de volta ao formato original.</li>
+    <li>Interface simples e intuitiva.</li>
+  </ul>
 
-## Como baixar o repositório?
----
-Para realizar o download do arquivo: Clique no botão verde com nome "Code" na parte superior direita do repositório, e em seguida clicar em Download zip. Em seguida você pode abrir o código no seu editor de código favorito.
+  <h2>🎮 Como Usar</h2>
+  <ol>
+    <li>Acesse o aplicativo <a href="https://challenge-decodificador-alpha.vercel.app/" target="_blank">clicando aqui</a>.</li>
+    <li>Digite ou cole o texto desejado no campo correspondente.</li>
+    <li>Escolha entre as opções "Codificar" ou "Decodificar".</li>
+    <li>O resultado será exibido instantaneamente na tela.</li>
+  </ol>
 
-<p align="center" >
-     <img width="300" heigth="200" src="https://user-images.githubusercontent.com/101413385/185686126-23339f8c-ecf9-44b8-9c52-996c50750254.png">
-</p>
+  <h2>📂 Estrutura do Projeto</h2>
+  <pre>
+📦 Projeto
+├── index.html      (Página principal do aplicativo)
+├── style.css       (Estilos do aplicativo)
+├── script.js       (Lógica de codificação e decodificação)
+  </pre>
 
-## Links Úteis!
----
-### Vídeos da Resolução Challenge ONE Decodificador de Texto
+  <h2>📢 Como Executar Localmente</h2>
+  <ol>
+    <li>Clone este repositório:</li>
+    <pre>
+git clone https://github.com/seu-usuario/seu-repositorio.git
+    </pre>
+    <li>Navegue até o diretório do projeto:</li>
+    <pre>
+cd decodificador-texto
+    </pre>
+    <li>Abra o arquivo <code>index.html</code> em seu navegador.</li>
+  </ol>
 
- - Parte I: [HTML e CSS](https://www.youtube.com/watch?v=04QvWw4aHlk)
- - Parte II: [Lógica com Javascript](https://www.youtube.com/watch?v=e3PasHJMIF8)
+  <h2>✨ Contribuições</h2>
+  <p>Contribuições são bem-vindas! Se tiver ideias para melhorar o projeto, abra uma issue ou envie um pull request.</p>
 
-Durante a execução da nossa live, utilizamos alguns métodos de JavaScript e para facilitar suas buscas e processos de estudo, deixaremos alguns deles listados abaixo com sua documentação oficial.
-
-  [Includes()](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/includes) |
-  [toLowerCase()](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/String/toLowerCase) |
-  [replaceAll()](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/String/replaceAll) |
-  [navigator.clipboard](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Interact_with_the_clipboard) |
-  [Element.style](https://www.w3schools.com/jsref/dom_obj_style.asp)
-
-## Como listar o meu projeto neste Challenge?
----
-
-1) Publique o projeto no GitHub
-2) Publica no GitHub Pages: [Como colocar seu projeto no ar com o Github Pages?](https://www.alura.com.br/artigos/como-colocar-projeto-no-ar-com-github-pages) 
-3) Utilize o tópico:
-     - Turma 3: **challengeonedecodificador3**
-     - Turma 4: **challengeonedecodificador4**
-
-
-Vá na aba "Sobre" ou "About" do seu projeto no menu lateral que fica na esquerda dentro do repositório no GitHub
-Adicione a tag "**challengeonedecodificador3**" ou "**challengeonedecodificador4**" dependendo de qual turma você pertence.
-
-![gif-vitrine](https://user-images.githubusercontent.com/91544872/153601047-62aee6cb-e3cf-42b3-92c3-7130c996113f.gif)
-
-## Como realizar a entrega final do meu projeto?
----
-
-4) Preenche o formulário de entrega com o **link do projeto publicado com GitHub Pages**
-🔹 [Link para o formulário](https://lp.alura.com.br/alura-latam-entrega-challenge-one-portugues)
-
-![formulario-entrega]![image](https://user-images.githubusercontent.com/92184087/208179699-a9fc5b9e-c9b5-4dab-a711-43ddfbcd00d0.png)
-
-5) Acesse seu e-mail e terá a sua Badge Exclusiva do Desafio 🏆
-6) Não se esqueça de publicar um link ou vídeo do seu projeto no Linkedin! 🏁
-
-    <a href="https://www.linkedin.com/company/alura-latam/mycompany/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    
+  <h2>📜 Licença</h2>
+  <p>Este projeto está sob a licença MIT.</p>
+</body>
+</html>
